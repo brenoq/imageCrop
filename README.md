@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to imageCrop 👋</h1>
-<p align= "center">
-  <a href="#" target="_blank">
+<p align="center">
+  <a href="LICENSE.md" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
@@ -24,8 +24,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Breno Quirino](https://github.com/brenoq).<br />
-This project is [MIT](https://github.com/brenoq/imageCrop/blob/master/LICENSE) licensed.
+This project is [MIT](LICENSE.md) licensed.
 
 ***
-
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
